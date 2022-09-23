@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#03A9F4</color>
+    <color name="purple_700">#C69853</color>
+    <color name="purple_500">#063BA6</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorLightGray">#D1D3D4</color>
+    <color name="ColorDarkGray">#8592A4</color>
+    <color name="splash_description_color">#656565</color>
+    <color name="colorHide">#00000000</color>
+    <color name="colorTwitter">#55ACEE</color>
+    <color name="colorSnapChat">#FFFE37</color>
+    <color name="colorBackground">#CC767680</color>
+    <color name="colorOrange">#FDBC2C</color>
+    <color name="colorRed">#A50404</color>
+</resources>
